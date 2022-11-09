@@ -1,0 +1,6 @@
+567ada277d86c9d297ac29f25d2abb19 *DESCRIPTION
+449d6ede420c1364af38e191872e5603 *NAMESPACE
+4e19ab4dfa4468e903c057e619dd659d *R/01_jadeLizardPnL.R
+b7ee8d999a8520f87c10b9fbae516b6f *R/02_reverseJadeLizardPnL.R
+af5f4624c87e2376f4aa39291d525154 *man/jadeLizardPnL.Rd
+442d9eb155109d4d7cacc3a063cb84dd *man/reverseJadeLizardPnL.Rd
